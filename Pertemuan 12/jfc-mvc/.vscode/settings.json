@@ -1,0 +1,17 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "e:\\Semester5\\Praktikum Pemrograman 2\\Tugas\\Pertemuan 12\\jfc-mvc\\libs\\reload4j-1.2.25.jar",
+    "e:\\Semester5\\Praktikum Pemrograman 2\\Tugas\\Pertemuan 12\\jfc-mvc\\libs\\asm-7.1.jar",
+    "e:\\Semester5\\Praktikum Pemrograman 2\\Tugas\\Pertemuan 12\\jfc-mvc\\libs\\cglib-3.3.0.jar",
+    "e:\\Semester5\\Praktikum Pemrograman 2\\Tugas\\Pertemuan 12\\jfc-mvc\\libs\\ognl-3.4.2.jar",
+    "e:\\Semester5\\Praktikum Pemrograman 2\\Tugas\\Pertemuan 12\\jfc-mvc\\libs\\log4j-api-2.23.1.jar",
+    "e:\\Semester5\\Praktikum Pemrograman 2\\Tugas\\Pertemuan 12\\jfc-mvc\\libs\\commons-logging-1.3.1.jar",
+    "e:\\Semester5\\Praktikum Pemrograman 2\\Tugas\\Pertemuan 12\\jfc-mvc\\libs\\mybatis-3.5.16.jar",
+    "e:\\Semester5\\Praktikum Pemrograman 2\\Tugas\\Pertemuan 12\\jfc-mvc\\libs\\mysql-connector-j-9.1.0.jar",
+    "e:\\Semester5\\Praktikum Pemrograman 2\\Tugas\\Pertemuan 12\\jfc-mvc\\libs\\javassist-3.30.2-GA.jar",
+    "e:\\Semester5\\Praktikum Pemrograman 2\\Tugas\\Pertemuan 12\\jfc-mvc\\libs\\openpdf-2.0.3.jar",
+    "e:\\Semester5\\Praktikum Pemrograman 2\\Tugas\\Pertemuan 12\\jfc-mvc\\libs\\slf4j-api-2.0.12.jar"
+  ]
+}
